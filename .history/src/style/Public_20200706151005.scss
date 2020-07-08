@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.box {
+    width: 100%;
+    height: 100%;
+}
+
+.flex {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.j-c {
+    justify-content: center;
+}
+
+.j-b {
+    justify-content: space-between;
+}
+
+.j-a {
+    justify-content: space-around;
+    
+}
+.j-e{
+    justify-content: end; 
+}
+.a-c{
+    align-items: center; 
+}
+.relative{
+    position: relative;
+}
+.absolute{
+    position: absolute;
+}
